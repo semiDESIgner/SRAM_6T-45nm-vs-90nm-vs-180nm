@@ -1,0 +1,2 @@
+Expression ,Value,Expression ,Value
+average(getData(":pwr" ?result "tran") ),1.510E-6,average(delay(?wf1 v("/net2" ?result "tran"), ?value1 0.9, ?edge1 "either", ?nth1 1, ?td1 0.0, ?tol1 nil, ?wf2 v("/q" ?result "tran"), ?value2 0.9, ?edge2 "either", ?nth2 1, ?tol2 nil,  ?td2 nil , ?stop nil,  ?period1 1 ?period2 1 ?multiple t ?xName "trigger" ) ),23.02E-9
